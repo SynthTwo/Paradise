@@ -17,7 +17,8 @@
 		"Vulpkanin" = 'icons/mob/clothing/species/vulpkanin/mask.dmi',
 		"Drask" = 'icons/mob/clothing/species/drask/mask.dmi',
 		"Grey" = 'icons/mob/clothing/species/grey/mask.dmi',
-		"Plasmaman" = 'icons/mob/clothing/species/plasmaman/mask.dmi'
+		"Plasmaman" = 'icons/mob/clothing/species/plasmaman/mask.dmi',
+		"Kidan" = 'icons/mob/clothing/species/kidan/mask.dmi'
 		)
 
 // **** Welding gas mask ****
